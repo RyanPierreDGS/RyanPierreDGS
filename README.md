@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Ryan Pierre
+# 👋 Olá, eu sou o Ryan
 
 Sou um desenvolvedor em transição para a área de tecnologia, atualmente no **4º semestre de Análise e Desenvolvimento de Sistemas** na IEMAT Univag. Tenho um perfil focado em resolver problemas reais através de automação e arquitetura back-end sólida.
 
@@ -30,5 +30,5 @@ Sou um desenvolvedor em transição para a área de tecnologia, atualmente no **
 ### 👨‍💻 Autor
 **Ryan Pierre** *Estudante de Análise e Desenvolvimento de Sistemas (4/5 Semestre) - IEMAT Univag*
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-pierre-dgs) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanpierre3107/) 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyanPierreDGS)
